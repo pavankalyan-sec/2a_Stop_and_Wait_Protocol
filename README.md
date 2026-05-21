@@ -11,7 +11,8 @@ To write a python program to perform stop and wait protocol
 ## PROGRAM
 ## Client
 
-<img width="390" height="217" alt="image" src="https://github.com/user-attachments/assets/3f9a32be-dab2-4a23-ac62-9e3c89939ba1" />
+<img width="426" height="425" alt="Screenshot 2026-05-21 132234" src="https://github.com/user-attachments/assets/87efabdf-8ca7-402d-8e71-fbc7a1afba60" />
+
 
 
 ## Server
